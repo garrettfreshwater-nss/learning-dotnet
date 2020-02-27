@@ -1,0 +1,11 @@
+/Users/GarrettFreshwater/workspace/MyApp2/bin/Debug/netcoreapp3.1/MyApp2
+/Users/GarrettFreshwater/workspace/MyApp2/bin/Debug/netcoreapp3.1/MyApp2.deps.json
+/Users/GarrettFreshwater/workspace/MyApp2/bin/Debug/netcoreapp3.1/MyApp2.runtimeconfig.json
+/Users/GarrettFreshwater/workspace/MyApp2/bin/Debug/netcoreapp3.1/MyApp2.runtimeconfig.dev.json
+/Users/GarrettFreshwater/workspace/MyApp2/bin/Debug/netcoreapp3.1/MyApp2.dll
+/Users/GarrettFreshwater/workspace/MyApp2/bin/Debug/netcoreapp3.1/MyApp2.pdb
+/Users/GarrettFreshwater/workspace/MyApp2/obj/Debug/netcoreapp3.1/MyApp2.csprojAssemblyReference.cache
+/Users/GarrettFreshwater/workspace/MyApp2/obj/Debug/netcoreapp3.1/MyApp2.AssemblyInfoInputs.cache
+/Users/GarrettFreshwater/workspace/MyApp2/obj/Debug/netcoreapp3.1/MyApp2.AssemblyInfo.cs
+/Users/GarrettFreshwater/workspace/MyApp2/obj/Debug/netcoreapp3.1/MyApp2.dll
+/Users/GarrettFreshwater/workspace/MyApp2/obj/Debug/netcoreapp3.1/MyApp2.pdb
